@@ -76,8 +76,9 @@ if __name__ == "__main__":
             print("Pilihan salah")
 ```
 
-- Flowchart
 
+- Flowchart
+![Flowchart Praktikum7](https://user-images.githubusercontent.com/123881535/218322881-3cf209ba-b107-4040-b763-270afb28a639.png)
 
 
 - Hasil Input
